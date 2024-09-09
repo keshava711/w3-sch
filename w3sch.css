@@ -1,0 +1,53 @@
+header{
+    display: flex;
+    background-color: beige;
+    align-items: center;
+}
+.img1{
+ 
+ 
+}
+.text1{
+    display: flex;
+    top: 10px;
+}
+.stars{
+    padding-left: 350px;
+    color: purple;
+    
+}
+b{
+    font-weight: 300;
+}
+.space{
+    color: purple;
+}
+.cart{
+    color: purple; 
+}
+.text1{
+    position: absolute;
+    left: 1430px;
+    background-color: rgb(191, 251, 207);
+    padding: 5px 10px 5px 25px;
+    border-radius: 500px;/
+  
+    /* margin-left:20px */
+}
+.text2{
+    position: fixed;
+    left: 1380px;
+    background-color: rgb(9, 241, 87);
+    padding: 5px 15px 5px 10px;
+    border-radius: 500px;
+}
+section{
+    padding-left: 20px;
+    gap: 30px;
+    display: flex;
+    background-color: black;
+    height: 30px;
+    color: white;
+    align-items: center;
+    
+}
